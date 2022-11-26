@@ -3,3 +3,10 @@
   top: 5px;
   right: 5px;
 }
+
+.buttons {
+  padding: 20px;
+  width: 140px;
+  display: flex;
+  justify-content: space-between;
+}
